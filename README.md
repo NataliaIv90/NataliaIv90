@@ -1,17 +1,22 @@
-# Natalia Ivantsova 
+<h1 align="center">
+  <strong> Natalia Ivantsova</strong>
+</h1>
 
-## 📫 Contact info:
+<div id="badges" align="center">
+    
+</div>
 
-- **Email:** ivantsova.tech@gmail.com
-- **LinkedIn:** [natalia-ivantsova-46017b238](https://www.linkedin.com/in/natalia-ivantsova-46017b238/)
+### 📫 How to reach me? You can write me to **my email:** ivantsova.tech@gmail.com or in <a href="https://www.linkedin.com/in/natalia-ivantsova-46017b238/" style="text-decoration: none; color: #0077b5;">LinkedIn</a>
 
-## 💬 Summary 
+## :woman_technologist: About me:
 
 > I'm Natalia, a coding newbie with big dreams and small syntax errors. I'm here to turn "I have no idea what I'm doing" into "I got this!".
 >
-> I honed my skills by devouring YouTube tutorials, scouring through resources like developer.mozilla.org, React, TypeScript and Redux documentation... Additionally, I had the privilege of attending the **TechFabrique Frontend School**, where I had the opportunity to learn from industry experts and collaborate with like-minded individuals. This experience not only added to my knowledge but also reinforced the importance of teamwork and effective communication in the development process.
+> I completed an internship at **TechFabrique School**, where I had the opportunity to learn from industry experts and collaborate with like-minded individuals. This experience not only added to my knowledge but also reinforced the importance of teamwork and effective communication in the development process.
+> 
+> I have two cats 🐱🐱 But it seems to me that I live in their house, not they in mine. 
 >
-> I believe that the world of web development is a canvas where innovation and creativity can thrive, and I'm excited to be a part of this ever-evolving journey.
+> I believe that the world of web development is a canvas where innovation and creativity can thrive, and I'm excited to be a part of this ever-evolving journey 🥳
 
 ## 🌱 I’m currently studying at: 
 * [Javascript/Front-end Mentoring Program (in English)](https://rs.school/js-en/)
@@ -22,15 +27,19 @@
 + Ukrainian - native
 + English - Advanced C1 ([EF Set Test](https://drive.google.com/file/d/1hvReqMpiuZ1NgHmA3xSHtPeDnGlF2rXq/view?usp=sharing))
  
-## 📚 Skills 
-
-* HTML, CSS, JavaScript
-* React, TypeScript
-* RTK Query
-* Bootstrap
-* MUI, Styled components
-* Git
-* Azure DevOps
+## :hammer_and_wrench: Skills:
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/53986236?s=48&v=4 "title="React-hook-form" alt="React-hook-form " width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4 "title="Styled components" alt="Styled components " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 ## 💻 Experience 
 
@@ -48,7 +57,7 @@
 
 * 2007 - 2012 Kyiv National University of Trade and Economics. Master degree. Finance and credit / Insurance Management
 
-Courses
+>### 📚Courses
   
 | Course                        | Organization                     | Graduated               |
 | ----------------------------- | -------------------------------- |-------------------------|
@@ -65,6 +74,13 @@ Courses
 
 * **Coursera**
   + Programming with JavaScript
+ 
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NataliaIv90&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaIv90&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **NataliaIv90/NataliaIv90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
