@@ -1,4 +1,4 @@
-# Natalia Ivantsova
+# Natalia Ivantsova 
 
 ## 🌱 I’m currently studying at **RSSchool** Stage 1
 
@@ -15,7 +15,12 @@
 >
 > I believe that the world of web development is a canvas where innovation and creativity can thrive, and I'm excited to be a part of this ever-evolving journey.
 
-## Skills 
+## 💬 Languages:
+
++ Ukrainian - native
++ English - Advanced C1 ([EF Set Test](https://drive.google.com/file/d/1hvReqMpiuZ1NgHmA3xSHtPeDnGlF2rXq/view?usp=sharing))
+ 
+## 📚 Skills 
 
 * HTML, CSS, JavaScript
 * React, TypeScript
@@ -25,7 +30,7 @@
 * Git
 * Azure DevOps
 
-## Code examples
+## 👩🏻‍💻 Code examples
 
 * **Responsive portfolio** 
   - [Code on GitHub](https://github.com/NataliaIv90/responsive-portfolio)
@@ -69,22 +74,6 @@
 * **Coursera**
   + Programming with JavaScript
 
-* **Online resources**
-  + freecodecamp.org
-  + uk.javascript.info
-  + developer.mozilla.org
-  + learn-js.org
-  + w3schools.com
-  + redux-toolkit.js.org
-  + react.dev/learn
-  + mui.com
-  + typescriptlang.org
-
-## 💬 Languages:
-
-+ Ukrainian - native
-+ English - Advanced C1 (EF Set Test)
-  
 <!--
 **NataliaIv90/NataliaIv90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
