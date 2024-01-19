@@ -6,7 +6,7 @@
 
 - **Email:** ivantsova.tech@gmail.com
 - **LinkedIn:** [@NataIvantsova](https://www.linkedin.com/in/natalia-ivantsova-46017b238/)
-- 
+  
 ## 💬 Summary 
 
 I'm Natalia, a coding newbie with big dreams and small syntax errors. I'm here to turn 'I have no idea what I'm doing' into 'I got this!'.
@@ -59,9 +59,9 @@ I believe that the world of web development is a canvas where innovation and cre
 ## 🌱 Education 
 
 * **SheCodes. FRONT-END**, DECEMBER 2022
-* **Techfabric school, FRONT-END**, OCTOBER 2023
-* **ITVDN, TYPESCRIPT**, NOVEMBER 2023
-* **EPAM, IT MARATHON 3.0**, DECEMBER 2023
+* **Techfabric school. FRONT-END**, OCTOBER 2023
+* **ITVDN. TYPESCRIPT**, NOVEMBER 2023
+* **EPAM. IT MARATHON 3.0**, DECEMBER 2023
 
 * **FreeCodeCamp**
   + Responsive Web Design
