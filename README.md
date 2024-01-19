@@ -6,7 +6,7 @@
     
 </div>
 
-### 📫 How to reach me? You can write me to **my email:** ivantsova.tech@gmail.com or in <a href="https://www.linkedin.com/in/natalia-ivantsova-46017b238/" style="text-decoration: none; color: #0077b5;">LinkedIn</a>
+### 📫 How to reach me? You can write me to **my email:** ivantsova.tech@gmail.com or connect with me on <a href="https://www.linkedin.com/in/natalia-ivantsova-46017b238/" style="text-decoration: none; color: #0077b5;">LinkedIn</a>
 
 ## :woman_technologist: About me:
 
