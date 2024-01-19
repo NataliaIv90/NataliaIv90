@@ -25,7 +25,7 @@ or connect with me on <a href="https://www.linkedin.com/in/natalia-ivantsova-460
 
 * [Code on GitHub](https://github.com/NataliaIv90/coffee-house)
 
-* [Hosten on GitHub pages](https://nataliaiv90.github.io/coffee-house/)
+* [Hosted on GitHub pages](https://nataliaiv90.github.io/coffee-house/)
   
 ## 💬 Languages:
 
