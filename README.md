@@ -1,12 +1,10 @@
 # Natalia Ivantsova 
 
-## 🌱 I’m currently studying at **RSSchool** Stage 1
-
 ## 📫 Contact info:
 
 - **Email:** ivantsova.tech@gmail.com
 - **LinkedIn:** [natalia-ivantsova-46017b238](https://www.linkedin.com/in/natalia-ivantsova-46017b238/)
-  
+
 ## 💬 Summary 
 
 > I'm Natalia, a coding newbie with big dreams and small syntax errors. I'm here to turn "I have no idea what I'm doing" into "I got this!".
@@ -15,6 +13,10 @@
 >
 > I believe that the world of web development is a canvas where innovation and creativity can thrive, and I'm excited to be a part of this ever-evolving journey.
 
+## 🌱 I’m currently studying at: 
+* [Javascript/Front-end Mentoring Program (in English)](https://rs.school/js-en/)
+* Programming with JavaScript. Coursera
+  
 ## 💬 Languages:
 
 + Ukrainian - native
