@@ -2,11 +2,10 @@
   <strong> Natalia Ivantsova</strong>
 </h1>
 
-<div id="badges" align="center">
-    
-</div>
+### 📫 How to reach me? 
 
-### 📫 How to reach me? You can write me to **my email:** ivantsova.tech@gmail.com or connect with me on <a href="https://www.linkedin.com/in/natalia-ivantsova-46017b238/" style="text-decoration: none; color: #0077b5;">LinkedIn</a>
+You can write me to **my email:** ivantsova.tech@gmail.com 
+or connect with me on <a href="https://www.linkedin.com/in/natalia-ivantsova-46017b238/" style="text-decoration: none; color: #0077b5;">LinkedIn</a>
 
 ## :woman_technologist: About me:
 
@@ -21,6 +20,12 @@
 ## 🌱 I’m currently studying at: 
 * [Javascript/Front-end Mentoring Program (in English)](https://rs.school/js-en/)
 * Programming with JavaScript. Coursera
+
+## 💻 My last pet project
+
+* [Code on GitHub](https://github.com/NataliaIv90/coffee-house)
+
+* [Hosten on GitHub pages](https://nataliaiv90.github.io/coffee-house/)
   
 ## 💬 Languages:
 
