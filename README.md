@@ -5,7 +5,7 @@
 ## 📫 Contact info:
 
 - **Email:** ivantsova.tech@gmail.com
-- **LinkedIn:** [@NataIvantsova](https://www.linkedin.com/in/natalia-ivantsova-46017b238/)
+- **LinkedIn:** [natalia-ivantsova-46017b238](https://www.linkedin.com/in/natalia-ivantsova-46017b238/)
   
 ## 💬 Summary 
 
