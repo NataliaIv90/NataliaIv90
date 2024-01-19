@@ -32,27 +32,16 @@
 * Git
 * Azure DevOps
 
-## 👩🏻‍💻 Code examples
-
-* **Responsive portfolio** 
-  - [Code on GitHub](https://github.com/NataliaIv90/responsive-portfolio)
-  - [Hosted on Netlify](https://sparkling-scone-58e483.netlify.app/)
-
-* **Group Pet Project**
-  - [Code on GitHub](https://github.com/NataliaIv90/techfabric-pet)
-
 ## 💻 Experience 
 
 ### FRONT-END DEVELOPER INTERN (REACT)
 *TECHFABRIC | JUNE 2023 - OCTOBER 2023*
 
-+ Participation in the development of a news portal.
++ Participation in the development of a news portal ([Code on GitHub](https://github.com/NataliaIv90/techfabric-pet))
 + Teamwork with the BE and QA.
-+ React
-+ TypeScript
++ React, TypeScript, RTK-query
 + Material UI
 + React-hook-forms + Yup validation
-+ RTK-query
 + Git, Azure DevOps
 
 ## 🌱 Education 
