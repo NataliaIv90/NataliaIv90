@@ -9,27 +9,19 @@
   
 ## 💬 Summary 
 
-I'm Natalia, a coding newbie with big dreams and small syntax errors. I'm here to turn "I have no idea what I'm doing" into "I got this!".
-
-My journey into the world of web development started with a thirst for knowledge and a laptop. I didn't have a formal education in this field, but I was determined to learn, and I believe that passion is the most important ingredient in success.
-
-I honed my skills by devouring YouTube tutorials, scouring through resources like developer.mozilla.org, React, TypeScript and Redux documentation... This self-guided approach allowed me to grasp the intricacies of frontend development at my own pace.
-
-Additionally, I had the privilege of attending the TechFabrique Frontend School, where I had the opportunity to learn from industry experts and collaborate with like-minded individuals. This experience not only added to my knowledge but also reinforced the importance of teamwork and effective communication in the development process.
-
-I believe that the world of web development is a canvas where innovation and creativity can thrive, and I'm excited to be a part of this ever-evolving journey.
+> I'm Natalia, a coding newbie with big dreams and small syntax errors. I'm here to turn "I have no idea what I'm doing" into "I got this!".
+>
+> I honed my skills by devouring YouTube tutorials, scouring through resources like developer.mozilla.org, React, TypeScript and Redux documentation... Additionally, I had the privilege of attending the **TechFabrique Frontend School**, where I had the opportunity to learn from industry experts and collaborate with like-minded individuals. This experience not only added to my knowledge but also reinforced the importance of teamwork and effective communication in the development process.
+>
+> I believe that the world of web development is a canvas where innovation and creativity can thrive, and I'm excited to be a part of this ever-evolving journey.
 
 ## Skills 
 
-* HTML
-* CSS
-* JavaScript
-* React
+* HTML, CSS, JavaScript
+* React, TypeScript
 * RTK Query
-* TypeScript
 * Bootstrap
-* MUI
-* Styled components
+* MUI, Styled components
 * Git
 * Azure DevOps
 
@@ -58,10 +50,16 @@ I believe that the world of web development is a canvas where innovation and cre
 
 ## 🌱 Education 
 
-* **SheCodes. FRONT-END**, DECEMBER 2022
-* **Techfabric school. FRONT-END**, OCTOBER 2023
-* **ITVDN. TYPESCRIPT**, NOVEMBER 2023
-* **EPAM. IT MARATHON 3.0**, DECEMBER 2023
+* 2007 - 2012 Kyiv National University of Trade and Economics. Master degree. Finance and credit / Insurance Management
+* Courses
+  
+| Course                        | Organization                     | Graduated               |
+| ----------------------------- | -------------------------------- |-------------------------|
+| FRONT-END                     | SheCodes                         | December 2022           |
+| FRONT-END                     | Techfabric school                | October 2023            |
+| TYPESCRIPT                    | ITVDN                            | November 2023           |  
+| IT MARATHON 3.0               | EPAM                             | DECEMBER 2023           |  
+----------------------------------------------------------------------------------------------
 
 * **FreeCodeCamp**
   + Responsive Web Design
