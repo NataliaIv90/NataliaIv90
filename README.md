@@ -47,7 +47,8 @@
 ## 🌱 Education 
 
 * 2007 - 2012 Kyiv National University of Trade and Economics. Master degree. Finance and credit / Insurance Management
-* Courses
+
+Courses
   
 | Course                        | Organization                     | Graduated               |
 | ----------------------------- | -------------------------------- |-------------------------|
