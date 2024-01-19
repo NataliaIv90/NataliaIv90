@@ -75,12 +75,12 @@ I believe that the world of web development is a canvas where innovation and cre
   + freecodecamp.org
   + uk.javascript.info
   + developer.mozilla.org
-  + www.learn-js.org
-  + www.w3schools.com
+  + learn-js.org
+  + w3schools.com
   + redux-toolkit.js.org
   + react.dev/learn
   + mui.com
-  + www.typescriptlang.org
+  + typescriptlang.org
 
 ## 💬 Languages:
 
