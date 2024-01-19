@@ -9,7 +9,7 @@
   
 ## 💬 Summary 
 
-I'm Natalia, a coding newbie with big dreams and small syntax errors. I'm here to turn 'I have no idea what I'm doing' into 'I got this!'.
+I'm Natalia, a coding newbie with big dreams and small syntax errors. I'm here to turn "I have no idea what I'm doing" into "I got this!".
 
 My journey into the world of web development started with a thirst for knowledge and a laptop. I didn't have a formal education in this field, but I was determined to learn, and I believe that passion is the most important ingredient in success.
 
