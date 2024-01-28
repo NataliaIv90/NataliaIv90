@@ -21,11 +21,19 @@ or connect with me on <a href="https://www.linkedin.com/in/natalia-ivantsova-460
 * [Javascript/Front-end Mentoring Program (in English)](https://rs.school/js-en/)
 * Programming with JavaScript. Coursera
 
-## 💻 My last pet project
+## 💻 My last pet projects
+
+### Coffee House landing page
 
 * [Code on GitHub](https://github.com/NataliaIv90/coffee-house)
 
 * [Hosted on GitHub pages](https://nataliaiv90.github.io/coffee-house/)
+
+### Hangman Game
+
+* [Code on GitHub](https://github.com/NataliaIv90/hangman)
+
+* [Hosted on GitHub pages](https://nataliaiv90.github.io/hangman/)
   
 ## 💬 Languages:
 
