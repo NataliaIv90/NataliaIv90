@@ -50,7 +50,6 @@ or connect with me on <a href="https://www.linkedin.com/in/natalia-ivantsova-460
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/53986236?s=48&v=4 "title="React-hook-form" alt="React-hook-form " width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4 "title="Styled components" alt="Styled components " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
