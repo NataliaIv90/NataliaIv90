@@ -19,7 +19,6 @@ or connect with me on <a href="https://www.linkedin.com/in/natalia-ivantsova-460
 
 ## 🌱 I’m currently studying at: 
 * [Javascript/Front-end Mentoring Program (in English)](https://rs.school/js-en/)
-* Programming with JavaScript. Coursera
 
 ## 💻 My last pet projects
 
@@ -77,6 +76,7 @@ or connect with me on <a href="https://www.linkedin.com/in/natalia-ivantsova-460
 | FRONT-END                     | Techfabric school                | October 2023            |
 | TYPESCRIPT                    | ITVDN                            | November 2023           |  
 | IT MARATHON 3.0               | EPAM                             | DECEMBER 2023           |  
+| PROGRAMMING WITH JAVASCRIPT   | META (COURSERA)                  | APRIL 2024              |  
 ----------------------------------------------------------------------------------------------
 
 * **FreeCodeCamp**
