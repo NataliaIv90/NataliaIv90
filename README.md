@@ -33,7 +33,15 @@ or connect with me on <a href="https://www.linkedin.com/in/natalia-ivantsova-460
 * [Code on GitHub](https://github.com/NataliaIv90/hangman)
 
 * [Hosted on GitHub pages](https://nataliaiv90.github.io/hangman/)
-  
+
+### Keycode info - [link](https://main--spiffy-dragon-5bd95c.netlify.app/hw-js12-keycode-info/)
+
+### Chemistry table - [link](https://main--spiffy-dragon-5bd95c.netlify.app/hw-8a-table-chemistry/)
+
+### Barbershop - [link](https://main--spiffy-dragon-5bd95c.netlify.app/hw8-barbershop/)
+
+### Pizza service - [link](https://beautiful-profiterole-b72fe0.netlify.app/)
+
 ## 💬 Languages:
 
 + Ukrainian - native
