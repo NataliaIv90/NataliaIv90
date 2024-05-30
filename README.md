@@ -22,17 +22,9 @@ or connect with me on <a href="https://www.linkedin.com/in/natalia-ivantsova-460
 
 ## 💻 My last pet projects
 
-### Coffee House landing page
+### Coffee House landing page - [Code](https://github.com/NataliaIv90/coffee-house) / [Hosted on GitHub pages](https://nataliaiv90.github.io/coffee-house/)
 
-* [Code on GitHub](https://github.com/NataliaIv90/coffee-house)
-
-* [Hosted on GitHub pages](https://nataliaiv90.github.io/coffee-house/)
-
-### Hangman Game
-
-* [Code on GitHub](https://github.com/NataliaIv90/hangman)
-
-* [Hosted on GitHub pages](https://nataliaiv90.github.io/hangman/)
+### Hangman Game - [Code](https://github.com/NataliaIv90/hangman) / [Hosted on GitHub pages](https://nataliaiv90.github.io/hangman/)
 
 ### Keycode info - [link](https://main--spiffy-dragon-5bd95c.netlify.app/hw-js12-keycode-info/)
 
