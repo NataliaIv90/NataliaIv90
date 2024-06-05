@@ -23,7 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>
 </div>
 
-## 💻 My last pet projects
+## 🐰 My last pet projects
 
 + Flower shop - [link](https://garden-with-flowers-test.netlify.app/)
 + Coffee House landing page - [code](https://github.com/NataliaIv90/coffee-house) / [hosted on GitHub pages](https://nataliaiv90.github.io/coffee-house/)
@@ -59,7 +59,7 @@
 
 * We are working on our group **[Flower shop pet project](https://garden-with-flowers-test.netlify.app/)**
 
->### 📚Courses
+### 📚Courses
   
 | Course                        | Organization                     | Graduated               |
 | ----------------------------- | -------------------------------- |-------------------------|
