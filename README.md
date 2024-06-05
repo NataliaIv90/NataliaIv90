@@ -11,30 +11,25 @@ or connect with me on <a href="https://www.linkedin.com/in/natalia-ivantsova-460
 
 > I'm Natalia, a coding newbie with big dreams and small syntax errors. I'm here to turn "I have no idea what I'm doing" into "I got this!".
 >
-> I completed an internship at **TechFabrique School**, where I had the opportunity to learn from industry experts and collaborate with like-minded individuals. This experience not only added to my knowledge but also reinforced the importance of teamwork and effective communication in the development process.
+> I completed an internship at **TechFabrique School**, where I had the opportunity to collaborate with like-minded individuals. This experience not only added to my knowledge but also reinforced the importance of teamwork and effective communication in the development process.
 > 
 > I have two cats 🐱🐱 But it seems to me that I live in their house, not they in mine. 
 >
 > I believe that the world of web development is a canvas where innovation and creativity can thrive, and I'm excited to be a part of this ever-evolving journey 🥳
 
 ## 🌱 I’m currently studying at: 
-* [Javascript/Front-end Mentoring Program (in English)](https://rs.school/js-en/)
+* [Javascript/Front-end Mentoring Program (in English)](https://rs.school/courses/javascript)
 
-* And we are working on [Flower shop pet project](https://garden-with-flowers-test.netlify.app/)
+* And we are working on our group **[Flower shop pet project](https://garden-with-flowers-test.netlify.app/)**
 
 ## 💻 My last pet projects
 
-### Coffee House landing page - [Code](https://github.com/NataliaIv90/coffee-house) / [Hosted on GitHub pages](https://nataliaiv90.github.io/coffee-house/)
-
-### Hangman Game - [Code](https://github.com/NataliaIv90/hangman) / [Hosted on GitHub pages](https://nataliaiv90.github.io/hangman/)
-
-### Keycode info - [link](https://main--spiffy-dragon-5bd95c.netlify.app/hw-js12-keycode-info/)
-
-### Chemistry table - [link](https://main--spiffy-dragon-5bd95c.netlify.app/hw-8a-table-chemistry/)
-
-### Barbershop - [link](https://main--spiffy-dragon-5bd95c.netlify.app/hw8-barbershop/)
-
-### Pizza service - [link](https://beautiful-profiterole-b72fe0.netlify.app/)
++ Coffee House landing page - [Code](https://github.com/NataliaIv90/coffee-house) / [Hosted on GitHub pages](https://nataliaiv90.github.io/coffee-house/)
++ Hangman Game - [Code](https://github.com/NataliaIv90/hangman) / [Hosted on GitHub pages](https://nataliaiv90.github.io/hangman/)
++ Keycode info - [link](https://main--spiffy-dragon-5bd95c.netlify.app/hw-js12-keycode-info/)
++ Chemistry table - [link](https://main--spiffy-dragon-5bd95c.netlify.app/hw-8a-table-chemistry/)
++ Barbershop - [link](https://main--spiffy-dragon-5bd95c.netlify.app/hw8-barbershop/)
++ Pizza service - [link](https://beautiful-profiterole-b72fe0.netlify.app/)
 
 ## 💬 Languages:
 
@@ -65,10 +60,6 @@ or connect with me on <a href="https://www.linkedin.com/in/natalia-ivantsova-460
 + Material UI
 + React-hook-forms + Yup validation
 + Git, Azure DevOps
-
-## 🌱 Education 
-
-* 2007 - 2012 Kyiv National University of Trade and Economics. Master degree. Finance and credit / Insurance Management
 
 >### 📚Courses
   
