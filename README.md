@@ -2,64 +2,62 @@
   <strong> Natalia Ivantsova</strong>
 </h1>
 
-### 📫 How to reach me? 
-
-You can write me to **my email:** ivantsova.tech@gmail.com 
-or connect with me on <a href="https://www.linkedin.com/in/natalia-ivantsova-46017b238/" style="text-decoration: none; color: #0077b5;">LinkedIn</a>
+### 📫 How to reach me? Via email: ivantsova.tech@gmail.com or <a href="https://www.linkedin.com/in/natalia-ivantsova-46017b238/" style="text-decoration: none; color: #0077b5;">LinkedIn</a>
 
 ## :woman_technologist: About me:
 
 > I'm Natalia, a coding newbie with big dreams and small syntax errors. I'm here to turn "I have no idea what I'm doing" into "I got this!".
->
-> I completed an internship at **TechFabrique School**, where I had the opportunity to collaborate with like-minded individuals. This experience not only added to my knowledge but also reinforced the importance of teamwork and effective communication in the development process.
 > 
 > I have two cats 🐱🐱 But it seems to me that I live in their house, not they in mine. 
->
-> I believe that the world of web development is a canvas where innovation and creativity can thrive, and I'm excited to be a part of this ever-evolving journey 🥳
 
-## 🌱 I’m currently studying at: 
-* [Javascript/Front-end Mentoring Program (in English)](https://rs.school/courses/javascript)
-
-* We are working on our group **[Flower shop pet project](https://garden-with-flowers-test.netlify.app/)**
+### :hammer_and_wrench: Skills:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="30" height="30"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/53986236?s=48&v=4 "title="React-hook-form" alt="React-hook-form " width="30" height="30"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4 "title="Styled components" alt="Styled components " width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>
+</div>
 
 ## 💻 My last pet projects
 
-+ Coffee House landing page - [Code](https://github.com/NataliaIv90/coffee-house) / [Hosted on GitHub pages](https://nataliaiv90.github.io/coffee-house/)
-+ Hangman Game - [Code](https://github.com/NataliaIv90/hangman) / [Hosted on GitHub pages](https://nataliaiv90.github.io/hangman/)
++ Flower shop - [link](https://garden-with-flowers-test.netlify.app/)
++ Coffee House landing page - [code](https://github.com/NataliaIv90/coffee-house) / [hosted on GitHub pages](https://nataliaiv90.github.io/coffee-house/)
++ Hangman Game - [code](https://github.com/NataliaIv90/hangman) / [hosted on GitHub pages](https://nataliaiv90.github.io/hangman/)
 + Keycode info - [link](https://main--spiffy-dragon-5bd95c.netlify.app/hw-js12-keycode-info/)
 + Chemistry table - [link](https://main--spiffy-dragon-5bd95c.netlify.app/hw-8a-table-chemistry/)
 + Barbershop - [link](https://main--spiffy-dragon-5bd95c.netlify.app/hw8-barbershop/)
 + Pizza service - [link](https://beautiful-profiterole-b72fe0.netlify.app/)
-
-## 💬 Languages:
-
-+ Ukrainian - native
-+ English - Advanced C1 ([EF Set Test](https://drive.google.com/file/d/1hvReqMpiuZ1NgHmA3xSHtPeDnGlF2rXq/view?usp=sharing))
- 
-## :hammer_and_wrench: Skills:
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/53986236?s=48&v=4 "title="React-hook-form" alt="React-hook-form " width="40" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4 "title="Styled components" alt="Styled components " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
 
 ## 💻 Experience 
 
 ### FRONT-END DEVELOPER INTERN (REACT)
 *TECHFABRIC | JUNE 2023 - OCTOBER 2023*
 
-+ Participation in the development of a news portal ([Code on GitHub](https://github.com/NataliaIv90/techfabric-pet))
++ Participation in the development of a news portal ([Code on GitHub](https://github.com/NataliaIv90/techfabric-pet)).
 + Teamwork with the BE and QA.
-+ React, TypeScript, RTK-query
-+ Material UI
-+ React-hook-forms + Yup validation
-+ Git, Azure DevOps
++ React, TypeScript, RTK-query, Material UI, React-hook-forms + Yup validation, Git, Azure DevOps.
+
+### FRONT-END DEVELOPER INTERN (REACT)
+*RSSchool | APRIL 2024 - now*
+
++ Project: [E-commerce SPA Flower shop app](https://garden-with-flowers-test.netlify.app/).
++ Leading a team of 2 other Front-End Developers.
++ React, Typescript, Redux, RTK-query, React-hook-forms + Yup validaton, CSS, REST API, Git, Jest, Commercetools, Trello.
+  
+## 💬 Languages:
+
++ Ukrainian - native
++ English - Advanced C1 ([EF Set Test](https://drive.google.com/file/d/1hvReqMpiuZ1NgHmA3xSHtPeDnGlF2rXq/view?usp=sharing))
+
+## 🌱 I’m currently studying at: 
+* [Javascript/Front-end Mentoring Program (in English)](https://rs.school/courses/javascript)
+
+* We are working on our group **[Flower shop pet project](https://garden-with-flowers-test.netlify.app/)**
 
 >### 📚Courses
   
