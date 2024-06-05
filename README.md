@@ -63,11 +63,12 @@
   
 | Course                        | Organization                     | Graduated               |
 | ----------------------------- | -------------------------------- |-------------------------|
-| FRONT-END                     | SheCodes                         | December 2022           |
-| FRONT-END                     | Techfabric school                | October 2023            |
-| TYPESCRIPT                    | ITVDN                            | November 2023           |  
-| IT MARATHON 3.0               | EPAM                             | DECEMBER 2023           |  
+| ASYNCHRONOUS PROGRAMMING IN JAVASCRIPT  | ITVDN                            | APRIL 2024    |
 | PROGRAMMING WITH JAVASCRIPT   | META (COURSERA)                  | APRIL 2024              |  
+| IT MARATHON 3.0               | EPAM                             | DECEMBER 2023           |  
+| TYPESCRIPT                    | ITVDN                            | November 2023           |  
+| FRONT-END                     | Techfabric school                | October 2023            |
+| FRONT-END                     | SheCodes                         | December 2022           |
 ----------------------------------------------------------------------------------------------
 
 * **FreeCodeCamp**
