@@ -10,7 +10,7 @@
 > 
 > I have two cats 🐱🐱 But it seems to me that I live in their house, not they in mine. 
 
-### :hammer_and_wrench: Skills:
+## :hammer_and_wrench: Skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
@@ -35,14 +35,14 @@
 
 ## 💻 Experience 
 
-#### FRONT-END DEVELOPER INTERN (REACT)
+#### 📌 FRONT-END DEVELOPER INTERN (REACT)
 *TECHFABRIC | JUNE 2023 - OCTOBER 2023*
 
 + Participation in the development of a news portal ([Code on GitHub](https://github.com/NataliaIv90/techfabric-pet)).
 + Teamwork with the BE and QA.
 + React, TypeScript, RTK-query, Material UI, React-hook-forms + Yup validation, Git, Azure DevOps.
 
-#### FRONT-END DEVELOPER INTERN (REACT)
+#### 📌 FRONT-END DEVELOPER INTERN (REACT)
 *RSSchool | APRIL 2024 - now*
 
 + Project: [E-commerce SPA Flower shop app](https://garden-with-flowers-test.netlify.app/).
