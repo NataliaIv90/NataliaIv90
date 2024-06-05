@@ -63,6 +63,7 @@
   
 | Course                        | Organization                     | Graduated               |
 | ----------------------------- | -------------------------------- |-------------------------|
+|ANGULARJS MASTERCLASS: DEEP DIVE & UNDERSTAND ANGULARJS | UDEMY | MAY 2024 |
 | ASYNCHRONOUS PROGRAMMING IN JAVASCRIPT  | ITVDN                            | APRIL 2024    |
 | PROGRAMMING WITH JAVASCRIPT   | META (COURSERA)                  | APRIL 2024              |  
 | IT MARATHON 3.0               | EPAM                             | DECEMBER 2023           |  
