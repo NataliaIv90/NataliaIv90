@@ -20,7 +20,7 @@ or connect with me on <a href="https://www.linkedin.com/in/natalia-ivantsova-460
 ## 🌱 I’m currently studying at: 
 * [Javascript/Front-end Mentoring Program (in English)](https://rs.school/js-en/)
 
-* And we are working on [Flower shop pet project](https://deploy-preview-43--garden-with-flowers-test.netlify.app/)
+* And we are working on [Flower shop pet project](https://garden-with-flowers-test.netlify.app/)
 
 ## 💻 My last pet projects
 
