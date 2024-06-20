@@ -25,7 +25,7 @@
 
 ## 🐰 My last pet projects
 
-+ Flower shop - [link](https://garden-with-flowers-test.netlify.app/)
++ Flower shop - [link](https://garden-with-flowers.netlify.app/)
 + Coffee House landing page - [code](https://github.com/NataliaIv90/coffee-house) / [hosted on GitHub pages](https://nataliaiv90.github.io/coffee-house/)
 + Hangman Game - [code](https://github.com/NataliaIv90/hangman) / [hosted on GitHub pages](https://nataliaiv90.github.io/hangman/)
 + Keycode info - [link](https://main--spiffy-dragon-5bd95c.netlify.app/hw-js12-keycode-info/)
