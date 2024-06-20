@@ -47,7 +47,7 @@
 
 + Project: [E-commerce SPA Flower shop app](https://garden-with-flowers-test.netlify.app/).
 + Leading a team of 2 other Front-End Developers.
-+ React, Typescript, Redux, RTK-query, React-hook-forms + Yup validaton, CSS, REST API, Git, Jest, Commercetools, Trello.
++ React, Typescript, Redux, RTK-query, React-hook-forms + Yup validaton, CSS, REST API, Git, Jest, Commercetools, Trello, Swiper, Material UI.
   
 ## 💬 Languages:
 
