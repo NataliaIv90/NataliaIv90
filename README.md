@@ -43,7 +43,7 @@
 + React, TypeScript, RTK-query, Material UI, React-hook-forms + Yup validation, Git, Azure DevOps.
 
 #### 📌 FRONT-END DEVELOPER INTERN (REACT)
-*RSSchool | APRIL 2024 - now*
+*RSSchool | APRIL 2024 - JUNE 2024*
 
 + Project: [E-commerce SPA Flower shop app](https://garden-with-flowers-test.netlify.app/).
 + Leading a team of 2 other Front-End Developers.
