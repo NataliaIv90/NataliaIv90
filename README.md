@@ -25,7 +25,7 @@
 
 ## 🐰 My last pet projects
 
-+ Flower shop - [link](https://garden-with-flowers.netlify.app/)
++ Flower shop - [link](https://garden-with-flowers.netlify.app/) / [code](https://github.com/NataliaIv90/ecommerce-app)
 + Coffee House landing page - [code](https://github.com/NataliaIv90/coffee-house) / [hosted on GitHub pages](https://nataliaiv90.github.io/coffee-house/)
 + Hangman Game - [code](https://github.com/NataliaIv90/hangman) / [hosted on GitHub pages](https://nataliaiv90.github.io/hangman/)
 + Keycode info - [link](https://main--spiffy-dragon-5bd95c.netlify.app/hw-js12-keycode-info/)
@@ -55,14 +55,13 @@
 + English - Advanced C1 ([EF Set Test](https://drive.google.com/file/d/1hvReqMpiuZ1NgHmA3xSHtPeDnGlF2rXq/view?usp=sharing))
 
 ## 🌱 I’m currently studying at: 
-* [Javascript/Front-end Mentoring Program (in English)](https://rs.school/courses/javascript)
-
-* We are working on our group **[Flower shop pet project](https://garden-with-flowers-test.netlify.app/)**
+* [React course](https://rs.school/courses/javascript](https://rs.school/courses/reactjs)
 
 ### 📚Courses
   
 | Course                        | Organization                     | Graduated               |
 | ----------------------------- | -------------------------------- |-------------------------|
+|JAVASCRIPT/FRONT-END MENTORING PROGRAM (IN ENGLISH)|RS SCHOOL|JULY 2024|
 |ANGULARJS MASTERCLASS: DEEP DIVE & UNDERSTAND ANGULARJS | UDEMY | MAY 2024 |
 | ASYNCHRONOUS PROGRAMMING IN JAVASCRIPT  | ITVDN                            | APRIL 2024    |
 | PROGRAMMING WITH JAVASCRIPT   | META (COURSERA)                  | APRIL 2024              |  
