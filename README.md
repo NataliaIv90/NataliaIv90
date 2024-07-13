@@ -45,7 +45,7 @@
 #### 📌 FRONT-END DEVELOPER INTERN (REACT)
 *RSSchool | APRIL 2024 - JUNE 2024*
 
-+ Project: [E-commerce SPA Flower shop app](https://garden-with-flowers-test.netlify.app/).
++ Project: [E-commerce SPA Flower shop app](https://garden-with-flowers-test.netlify.app/) ([code](https://github.com/NataliaIv90/ecommerce-app)).
 + Leading a team of 2 other Front-End Developers.
 + React, Typescript, Redux, React-hook-forms + Yup validaton, CSS, REST API, Git, Jest, Commercetools, Trello, Swiper, Material UI.
   
@@ -55,7 +55,7 @@
 + English - Advanced C1 ([EF Set Test](https://drive.google.com/file/d/1hvReqMpiuZ1NgHmA3xSHtPeDnGlF2rXq/view?usp=sharing))
 
 ## 🌱 I’m currently studying at: 
-* [React course](https://rs.school/courses/javascript](https://rs.school/courses/reactjs)
+* [React course](https://rs.school/courses/reactjs)
 
 ### 📚Courses
   
