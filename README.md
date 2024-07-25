@@ -10,8 +10,6 @@
 > 
 > I have two cats 🐱🐱 But it seems to me that I live in their house, not they in mine.
 
-## 📝 I'm currently studying at: [RS School React course](https://rs.school/courses/reactjs) and working on [Star wars API project](https://react-rsschool-repo.netlify.app/)
-
 ## :hammer_and_wrench: Skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
@@ -61,7 +59,7 @@
 + English - Advanced C1 ([EF Set Test](https://drive.google.com/file/d/1hvReqMpiuZ1NgHmA3xSHtPeDnGlF2rXq/view?usp=sharing))
 
 ## 🌱 I’m currently studying at: 
-* [React course](https://rs.school/courses/reactjs)
+* [React course](https://rs.school/courses/reactjs) and working on [Star wars API project](https://react-rsschool-repo.netlify.app/)
 
 ### 📚Courses
   
