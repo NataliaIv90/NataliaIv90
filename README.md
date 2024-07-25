@@ -8,7 +8,9 @@
 
 > I'm Natalia, a coding newbie with big dreams and small syntax errors. I'm here to turn "I have no idea what I'm doing" into "I got this!".
 > 
-> I have two cats 🐱🐱 But it seems to me that I live in their house, not they in mine. 
+> I have two cats 🐱🐱 But it seems to me that I live in their house, not they in mine.
+
+## 📝 I'm currently studying at: [RS School React course](https://rs.school/courses/reactjs) and working on [Star wars API project](https://react-rsschool-repo.netlify.app/)
 
 ## :hammer_and_wrench: Skills:
 <div>
