@@ -33,6 +33,11 @@
 
 | Name                        | Code                     | Deploy               |
 | ----------------------------- | -------------------------------- |-------------------------|
+|Star wars API project:|||
+|- class components|[code](https://github.com/NataliaIv90/rsschool-react/tree/class-components)|[link](https://class-comp-task.netlify.app/)|
+|- functional programming|[code](https://github.com/NataliaIv90/rsschool-react/tree/hooks-and-routing)|[link](https://hooks-and-routing-proj.netlify.app/)|
+|- next.js (pages router)|[code](https://github.com/NataliaIv90/rsschool-react/tree/nextjs-ssr-pages-api)||
+|- next.js (app router)|[code](https://github.com/NataliaIv90/rsschool-react/tree/nextjs-ssr-app-router-api)||
 | Flower shop (team work) | [code](https://github.com/NataliaIv90/ecommerce-app) |[link](https://garden-with-flowers.netlify.app/) |
 | News portal  (team work) | [code](https://github.com/NataliaIv90/techfabric-pet/) |  |
 | Coffee House landing page | [code](https://github.com/NataliaIv90/coffee-house) | [link](https://nataliaiv90.github.io/coffee-house/)
@@ -63,13 +68,14 @@
 + Ukrainian - native
 + English - Advanced C1 ([EF Set Test](https://drive.google.com/file/d/1hvReqMpiuZ1NgHmA3xSHtPeDnGlF2rXq/view?usp=sharing))
 
-## 🌱 I’m currently studying at: 
-* [React course](https://rs.school/courses/reactjs) and working on [Star wars API project](https://react-rsschool-repo.netlify.app/)
-
+## 🌱 I’m currently learning Tailwind CSS at: 
+* [Dave Gray YouTube channel](https://www.youtube.com/watch?v=pYaamz6AyvU&list=PL0Zuz27SZ-6M8znNpim8dRiICRrP5HPft)
+  
 ### 📚Courses
   
 | Course                        | Organization                     | Graduated               |
 | ----------------------------- | -------------------------------- |-------------------------|
+|React|RS SCHOOL|AUGUST 2024|
 |JAVASCRIPT/FRONT-END MENTORING PROGRAM (IN ENGLISH)|RS SCHOOL|JULY 2024|
 |ANGULARJS MASTERCLASS: DEEP DIVE & UNDERSTAND ANGULARJS | UDEMY | MAY 2024 |
 | ASYNCHRONOUS PROGRAMMING IN JAVASCRIPT  | ITVDN                            | APRIL 2024    |
