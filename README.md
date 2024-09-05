@@ -19,8 +19,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="30" height="30"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/53986236?s=48&v=4 "title="React-hook-form" alt="React-hook-form " width="30" height="30"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4 "title="Styled components" alt="Styled components " width="30" height="30"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/53986236?s=48&v=4" title="React-hook-form" alt="React-hook-form " width="30" height="30"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4" title="Styled components" alt="Styled components " width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss " width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" title="vitest" alt="vitest" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="30" height="30"/>&nbsp;
@@ -86,6 +87,12 @@
 | FRONT-END                     | SheCodes                         | December 2022           |
 ----------------------------------------------------------------------------------------------
 
+### 💻 Youtube learning
+
+| Course                        | YouTube Channel                     | Months               |
+| ----------------------------- | -------------------------------- |-------------------------|
+|[Tailwind CSS](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6M8znNpim8dRiICRrP5HPft)|[Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode)|September 2024|
+----------------------------------------------------------------------------------------------
 * **FreeCodeCamp**
   + Responsive Web Design
   + JavaScript Algorithms and Data Structures
