@@ -50,33 +50,32 @@
 
 ## 💻 Experience 
 
-#### 📌 FRONT-END DEVELOPER INTERN (REACT)
-*TECHFABRIC | JUNE 2023 - OCTOBER 2023*
-
-+ Participation in the development of a news portal ([Code on GitHub](https://github.com/NataliaIv90/techfabric-pet)).
-+ Teamwork with the BE and QA.
-+ React, TypeScript, RTK-query, Material UI, React-hook-forms + Yup validation, Git, Azure DevOps.
-
-#### 📌 FRONT-END DEVELOPER INTERN (REACT)
-*RSSchool | APRIL 2024 - JUNE 2024*
-
-+ Project: [E-commerce SPA Flower shop app](https://garden-with-flowers-test.netlify.app/) ([code](https://github.com/NataliaIv90/ecommerce-app)).
-+ Leading a team of 2 other Front-End Developers.
-+ React, Typescript, Redux, React-hook-forms + Yup validaton, CSS, REST API, Git, Jest, Commercetools, Trello, Swiper, Material UI.
-
 #### 📌 FRONT-END DEVELOPER
 *Sombra | OCTOBER 2024 - now*
 
 + JavaScript, Git, Confluence, Jira.
+
+#### 📌 FRONT-END DEVELOPER INTERN (REACT)
+*RSSchool | APRIL 2024 - JUNE 2024*
+
++ Project: [E-commerce SPA Flower shop app](https://garden-with-flowers-test.netlify.app/) ([code](https://github.com/NataliaIv90/ecommerce-app)). Leading a team of 2 other Front-End Developers.
++ React, Typescript, Redux, React-hook-forms + Yup validaton, CSS, REST API, Git, Jest, Commercetools, Trello, Swiper, Material UI.
+
+#### 📌 FRONT-END DEVELOPER INTERN (REACT)
+*TECHFABRIC | JUNE 2023 - OCTOBER 2023*
+
++ Participation in the development of a news portal ([Code on GitHub](https://github.com/NataliaIv90/techfabric-pet)). Teamwork with the BE and QA.
++ React, TypeScript, RTK-query, Material UI, React-hook-forms + Yup validation, Git, Azure DevOps.
   
 ## 💬 Languages:
 
 + Ukrainian - native
 + English - Advanced C1 ([EF Set Test](https://drive.google.com/file/d/1hvReqMpiuZ1NgHmA3xSHtPeDnGlF2rXq/view?usp=sharing))
 
+<!-- 
 ## 🌱 I’m currently learning Tailwind CSS at: 
 * [Dave Gray YouTube channel](https://www.youtube.com/watch?v=pYaamz6AyvU&list=PL0Zuz27SZ-6M8znNpim8dRiICRrP5HPft)
-  
+-->  
 ### 📚Courses
   
 | Course                        | Organization                     | Graduated               |
