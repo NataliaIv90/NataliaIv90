@@ -63,6 +63,11 @@
 + Project: [E-commerce SPA Flower shop app](https://garden-with-flowers-test.netlify.app/) ([code](https://github.com/NataliaIv90/ecommerce-app)).
 + Leading a team of 2 other Front-End Developers.
 + React, Typescript, Redux, React-hook-forms + Yup validaton, CSS, REST API, Git, Jest, Commercetools, Trello, Swiper, Material UI.
+
+#### 📌 FRONT-END DEVELOPER
+*Sombra | OCTOBER 2024 - now*
+
++ JavaScript, Git, Confluence, Jira.
   
 ## 💬 Languages:
 
