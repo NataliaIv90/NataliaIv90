@@ -30,7 +30,29 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="30" height="30"/>&nbsp;
   </div>
 
-## 🐰 My last projects
+## 💻 Experience 
+
+#### 📌 FRONT-END DEVELOPER
+*Sombra | OCTOBER 2024 - now*
+
++ JavaScript, Git, Confluence, Jira.
+
+
+#### 📌 FRONT-END DEVELOPER INTERN (REACT)
+*RSSchool | APRIL 2024 - JUNE 2024*
+
++ Project: [E-commerce SPA Flower shop app](https://garden-with-flowers-test.netlify.app/) ([code](https://github.com/NataliaIv90/ecommerce-app)). Leading a team of 2 other Front-End Developers.
++ React, Typescript, Redux, React-hook-forms + Yup validaton, CSS, REST API, Git, Jest, Commercetools, Trello, Swiper, Material UI.
+
+
+#### 📌 FRONT-END DEVELOPER INTERN (REACT)
+*TECHFABRIC | JUNE 2023 - OCTOBER 2023*
+
++ Participation in the development of a news portal ([Code on GitHub](https://github.com/NataliaIv90/techfabric-pet)). Teamwork with the BE and QA.
++ React, TypeScript, RTK-query, Material UI, React-hook-forms + Yup validation, Git, Azure DevOps.
+
+  
+## 🐰 My pet projects
 
 | Name                        | Code                     | Deploy               |
 | ----------------------------- | -------------------------------- |-------------------------|
@@ -48,25 +70,7 @@
 | Barbershop | |[link](https://main--spiffy-dragon-5bd95c.netlify.app/hw8-barbershop/)  |
 | Pizza service | |[link](https://beautiful-profiterole-b72fe0.netlify.app/)  |
 
-## 💻 Experience 
 
-#### 📌 FRONT-END DEVELOPER
-*Sombra | OCTOBER 2024 - now*
-
-+ JavaScript, Git, Confluence, Jira.
-
-#### 📌 FRONT-END DEVELOPER INTERN (REACT)
-*RSSchool | APRIL 2024 - JUNE 2024*
-
-+ Project: [E-commerce SPA Flower shop app](https://garden-with-flowers-test.netlify.app/) ([code](https://github.com/NataliaIv90/ecommerce-app)). Leading a team of 2 other Front-End Developers.
-+ React, Typescript, Redux, React-hook-forms + Yup validaton, CSS, REST API, Git, Jest, Commercetools, Trello, Swiper, Material UI.
-
-#### 📌 FRONT-END DEVELOPER INTERN (REACT)
-*TECHFABRIC | JUNE 2023 - OCTOBER 2023*
-
-+ Participation in the development of a news portal ([Code on GitHub](https://github.com/NataliaIv90/techfabric-pet)). Teamwork with the BE and QA.
-+ React, TypeScript, RTK-query, Material UI, React-hook-forms + Yup validation, Git, Azure DevOps.
-  
 ## 💬 Languages:
 
 + Ukrainian - native
