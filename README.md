@@ -32,7 +32,7 @@
 
 ## 💻 Experience 
 
-#### 📌 FRONT-END DEVELOPER
+#### 📌 SOFTWARE ENGINEER
 *Sombra | OCTOBER 2024 - now*
 
 + JavaScript, Git, Confluence, Jira.
