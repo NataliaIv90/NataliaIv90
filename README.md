@@ -33,9 +33,9 @@
 ## 💻 Experience 
 
 #### 📌 SOFTWARE ENGINEER
-*Sombra | OCTOBER 2024 - now*
+*Sombra | JULY 2024 - now*
 
-+ JavaScript, Git, Confluence, Jira.
++ JavaScript, Electron, SCSS, HTML5, AudaCity, BitBucket, Jenkins, Adobe Photoshop, Adobe Premier Pro, Jira
 
 
 #### 📌 FRONT-END DEVELOPER INTERN (REACT)
