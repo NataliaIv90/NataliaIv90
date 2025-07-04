@@ -32,8 +32,13 @@
 
 ## 💻 Experience 
 
-#### 📌 SOFTWARE ENGINEER
-*Sombra | JULY 2024 - now*
+#### 📌 FRONT-END DEVELOPER (React)
+*LaSoft | JULY 2025 - now*
+
++ JavaScript, React, TypeScript, Redux, Material UI, Git, Jira
+
+#### 📌 FRONT-END DEVELOPER
+*Sombra | JULY 2024 - JUNE 2025*
 
 + JavaScript, Electron, SCSS, HTML5, AudaCity, BitBucket, Jenkins, Adobe Photoshop, Adobe Premier Pro, Jira
 
